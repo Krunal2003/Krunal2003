@@ -4,7 +4,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/Krunal2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=580&lines=Data+Analyst+%7C+Aspiring+Analytics+Engineer+%F0%9F%93%8A;Building+Real+Pipelines%2C+Not+Just+Notebooks+%F0%9F%9B%A0%EF%B8%8F;From+Raw+Data+to+Decision-Ready+Insights+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=580&lines=Data+Analyst+%7C+Analytics+Engineer+%F0%9F%93%8A;Pipelines+%E2%86%92+Dashboards+%E2%86%92+Decisions+%F0%9F%9B%A0%EF%B8%8F;SQL+%2B+Python+%2B+dbt+%2B+GCP+%E2%98%81%EF%B8%8F;Boston%2C+MA+%F0%9F%87%BA%F0%9F%87%B8+%7C+Northeastern+University+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 name: Krunal Vaghasiya
 located_in: Boston, MA, USA
 education: Northeastern University
-current_focus: Data Analyst | Data Engineer-in-Progress | ML Intern
+current_focus: Data Analyst | Analytics Engineer | ML Intern
 tagline: "I build end-to-end data systems — from ingestion and transformation
           to analytics and decision-ready dashboards."
 ```
@@ -44,65 +44,7 @@ tagline: "I build end-to-end data systems — from ingestion and transformation
 
 ---
 
-## 🏗️ Featured Work — What I've Actually Built
-
-> *This is the section that matters. Not buzzwords — proof.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 NYC 311 Data Engineering Platform
-**`Python` `BigQuery` `dbt` `Cloud Run` `GCS`**
-
-- Built a fully automated ingestion pipeline from NYC Open Data APIs
-- Implemented **bronze / silver / gold** data modeling using dbt
-- Added data quality tests, freshness checks & incremental models
-- Designed analytics-ready tables for trend analysis & reporting
-
-> 🚀 *Real data engineering — not coursework fluff.*
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Chelsea Street Bridge Lift Prediction
-**`Python` `ML Models` `Tableau` `MassDOT`**
-
-- Developed predictive models for bridge lift likelihood
-- Integrated weather, vessel & historical lift data
-- Built dashboards to support commuter & freight route decisions
-
-> 📍 *Real civic-tech impact with MassDOT partnership.*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 ML Intern — METY Technology
-**`Python` `Feature Engineering` `Model Evaluation`**
-
-- Worked on applied ML use cases with real constraints
-- Focused on feature engineering, model evaluation & data prep
-- Collaborated with engineers and stakeholders — not just notebooks
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Bitcoin Price Predictor
-**`Python` `Random Forest` `Streamlit`**
-
-- Built a price prediction model with real financial data
-- Deployed interactive dashboard using Streamlit
-- End-to-end ML pipeline: data collection → model → deployment
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Core Tech Stack — Trimmed to Reality
+## 🛠️ Core Tech Stack
 
 <h3 align="center">📊 Data & Analytics</h3>
 <p align="center">
@@ -148,18 +90,6 @@ tagline: "I build end-to-end data systems — from ingestion and transformation
 
 ---
 
-## 📌 What I'm NOT Claiming
-
-<p align="center">
-  ❌ "Expert in Deep Learning" &nbsp;&nbsp;|&nbsp;&nbsp; ❌ "RL Specialist" &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Buzzword Stuffing
-</p>
-
-<p align="center">
-  <em>That honesty increases trust. I'd rather show what I've <b>built</b> than list what I've <b>heard of</b>.</em>
-</p>
-
----
-
 ## 🎯 Career Direction
 
 <p align="center">
@@ -177,31 +107,27 @@ tagline: "I build end-to-end data systems — from ingestion and transformation
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krunal2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B93E&icon_color=F7B93E&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krunal2003&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B93E&fire=F7B93E&currStreakLabel=F7B93E" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B93E&text_color=FFFFFF" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krunal2003&bg_color=0D1117&color=F7B93E&line=F7B93E&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B93E&text_color=FFFFFF" />
 </p>
 
 ---
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krunal2003/Krunal2003/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Krunal2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<!-- Quote -->
+<!-- GitHub Profile Summary Cards -->
+<h2 align="center">📊 Profile Summary</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krunal2003&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krunal2003&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krunal2003&theme=tokyonight" />
 </p>
 
 ---
