@@ -1,83 +1,76 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Krunal%20Vaghasiya&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Krunal%20👋&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<p align="center">
-  <a href="https://github.com/Krunal2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&random=false&width=450&lines=data+analyst+%F0%9F%93%8A;sql+nerd+%E2%9C%8D%EF%B8%8F;python+%2B+dbt+%2B+gcp+%E2%98%81%EF%B8%8F;based+in+boston+%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG" />
-  </a>
+<h3 align="center">Data Analyst | Analytics Engineer | Boston, MA 🇺🇸</h3>
+
+---
+
+## 🚀 About Me
+
+- 📊 Data Analyst with hands-on experience in **pipelines, dashboards, and cloud platforms**.
+- 🎓 Currently studying at **Northeastern University**.
+- 🔧 I work with **Python, SQL, dbt, and GCP** almost every day.
+- 🧪 Former **ML Intern at METY Technology** — worked on real applied ML, not just tutorials.
+- 🌱 Getting deeper into **BigQuery, Cloud Run, and analytics engineering**.
+- ☕ I think good data work is invisible — people just see better decisions.
+
+---
+
+## 🛠️ Tools and Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
 </p>
 
----
-
-### hey, welcome 👋
-
-i'm krunal — a data analyst based in **boston, ma**, studying at **northeastern university**.
-
-i spend most of my time writing sql, building pipelines, and trying to make messy data actually usable. i've interned as an ml engineer, built cloud-based data platforms, and made dashboards that people *actually* look at (rare, i know).
-
-i don't call myself a "data enthusiast" or a "passionate lifelong learner." i just like solving problems with data, and i'm getting better at it every day.
-
-**currently looking for:** data analyst / analytics engineer / junior data engineer roles
-
-**industries i'm drawn to:** healthcare, public sector, sports analytics, fintech
+Also: `dbt` · `BigQuery` · `Cloud Run` · `Power BI` · `Streamlit` · `Scikit-Learn` · `Keras` · `Excel`
 
 ---
 
-### what i work with
+## 📂 Projects I'm Proud Of
 
-i'm not listing every tool i've ever touched. these are the ones i actually use and feel confident in:
+**🔹 NYC 311 Data Platform** — Built an automated ingestion pipeline from NYC Open Data APIs into BigQuery using dbt (bronze → silver → gold layers), with data quality tests and incremental models. Not a tutorial follow-along — an actual working system.
 
-**daily drivers** → `Python` · `SQL` · `dbt` · `Pandas` · `Jupyter`
+**🔹 Chelsea Street Bridge Lift Prediction** — Partnered with MassDOT to predict bridge lifts using weather, vessel, and historical data. Built Tableau dashboards for route planning. Probably the most interesting project I've worked on.
 
-**cloud stuff** → `GCP` · `BigQuery` · `Cloud Run` · `GCS` · `Docker`
+**🔹 Bitcoin Price Predictor** — Random forest model deployed as a Streamlit app. Simple, but end-to-end: data collection → model → live dashboard.
 
-**viz** → `Tableau` · `Power BI` · `Streamlit`
-
-**ml (when it makes sense)** → `Scikit-Learn` · `TensorFlow` · `Keras`
-
-**databases** → `MySQL` · `PostgreSQL` · `MongoDB`
-
-**basics that matter** → `Git` · `Excel` (yes, really)
+**🔹 ML Internship @ METY Technology** — Feature engineering, model evaluation, working with real stakeholders and real constraints. This is where I learned how ML actually works outside a classroom.
 
 ---
 
-### stuff i've actually built
+## 🎯 What I'm Looking For
 
-**NYC 311 Data Platform** — automated ingestion from NYC Open Data APIs → bronze/silver/gold layers in dbt → analytics-ready tables in BigQuery. real pipeline, not a tutorial copy-paste.
+I'm targeting **Data Analyst**, **Analytics Engineer**, or **Junior Data Engineer** roles.
 
-**Chelsea Street Bridge Lift Prediction** — worked with MassDOT to predict bridge lifts using weather + vessel + historical data. built tableau dashboards for commuter route planning. one of the most interesting projects i've done.
-
-**Bitcoin Price Predictor** — random forest model + streamlit app. nothing groundbreaking, but a solid end-to-end ml project: data → model → deployed dashboard.
-
-**ML Internship @ METY Technology** — feature engineering, model evaluation, working with real stakeholders. learned more here about how ml works in practice than in any course.
+Industries that interest me: **Healthcare** · **Public Sector** · **Sports Analytics** · **Fintech**
 
 ---
 
-### a bit more about me
-
-- i moved from india to the US for grad school and it was the best decision i've made
-- i believe the best data work is invisible — people just see better decisions
-- i'm not great at front-end stuff (this readme took me way too long)
-- i think `dbt test` is underrated and every data team should use it
-- i once spent 4 hours debugging a query that was missing a single comma
+#### ``` +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+ @@ @@ @@ SELECT * @@ @@ FROM messy_data @@ @@ WHERE actually_useful = TRUE @@ @@ ORDER BY impact DESC; @@ @@ @@ @@ -- krunal's daily routine @@ @@ @@ +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+ ```
 
 ---
 
-### let's talk
-
-if you're working on something interesting with data, or if you just want to chat — hit me up.
+## 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krunal-vaghasiya-%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-85187932b/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
 
+If you're working on something cool with data — let's talk.
+
 ---
 
-```
-"in god we trust; all others must bring data." — w. edwards deming
-```
-
-<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
