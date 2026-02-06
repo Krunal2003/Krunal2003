@@ -102,36 +102,6 @@ tagline: "I build end-to-end data systems — from ingestion and transformation
 
 ---
 
-<!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krunal2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B93E&icon_color=F7B93E&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B93E&text_color=FFFFFF" />
-</p>
-
----
-
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krunal2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- GitHub Profile Summary Cards -->
-<h2 align="center">📊 Profile Summary</h2>
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krunal2003&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krunal2003&theme=tokyonight" />
-</p>
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krunal2003&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
